@@ -1,0 +1,18 @@
+{
+  "NativeCulture": "en-US",
+  "NativeLocRes": "en-US/Game.locres",
+  "CompiledCultures": [
+    "de",
+    "en-US",
+    "es",
+    "fr-FR",
+    "it",
+    "ja",
+    "ko",
+    "pl",
+    "pt-BR",
+    "ru",
+    "zh-Hans",
+    "zh-Hant"
+  ]
+}
